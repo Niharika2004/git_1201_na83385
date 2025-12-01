@@ -1,1 +1,2 @@
-This is teh first file 
+This is teh first file
+verifying the diff command
